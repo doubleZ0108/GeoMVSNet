@@ -1,4 +1,3 @@
-
 <h1 align="center">GeoMVSNet: Learning Multi-View Stereo With Geometry Perception (CVPR 2023)</h1>
 <div align="center"></div>
 
@@ -21,6 +20,8 @@
 
 <br />
 
+
+<div align="center"><a href="https://youtu.be/XqLDgJAZAKc" target='_blank'><img src=".github/imgs/geomvsnet-video-cover.png" /></a></div>
 
 <div align="center"><a href="https://youtu.be/dLyuFMz1tAk" target='_blank'><img src=".github/imgs/mvs-demo-video-cover.png" /></a></div>
 
