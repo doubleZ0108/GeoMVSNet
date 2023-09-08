@@ -2,7 +2,7 @@
 source scripts/data_path.sh
 
 THISNAME="geomvsnet"
-BESTEPOCH="15"
+BESTEPOCH="geomvsnet_release"
 
 LOG_DIR="./checkpoints/dtu/"$THISNAME 
 DTU_CKPT_FILE=$LOG_DIR"/model_"$BESTEPOCH".ckpt"
