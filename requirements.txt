@@ -1,0 +1,11 @@
+torch==1.10.0
+torchvision
+opencv-python
+numpy==1.18.1
+pillow
+scipy
+tensorboardX
+plyfile
+open3d
+jupyter
+notebook
