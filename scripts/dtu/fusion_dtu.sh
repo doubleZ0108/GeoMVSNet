@@ -31,7 +31,7 @@ CUDA_VISIBLE_DEVICES=0 python2 fusions/dtu/gipuma.py \
     --plydir=$DTU_OUT_DIR"/gipuma_fusion_plys/"
 
 elif [ $FUSION_METHOD = "open3d" ] ; then
-CUDA_VISIBLE_DEVICES=0 python fusions/dtu/open3d.py --device="cuda" \
+CUDA_VISIBLE_DEVICES=0 python fusions/dtu/_open3d.py --device="cuda" \
     --root_path=$DTU_TEST_ROOT \
     --depth_path=$DTU_OUT_DIR \
     --data_list="datasets/lists/dtu/test.txt" \
